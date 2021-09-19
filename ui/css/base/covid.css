@@ -1,0 +1,345 @@
+﻿.covid-page {
+    width: 100%;
+    height: calc(100% - 49px);
+    float: left;
+}
+
+.covid-header {
+    width: 100%;
+    height: 80px;
+    background-image: linear-gradient(to right, yellow, aqua);
+    display: flex;
+    justify-content: space-between;
+}
+
+    .covid-header h2 {
+        display: block;
+        margin: 0;
+        line-height: 80px;
+        margin-left: 24px;
+    }
+
+    .covid-header p {
+        display: block;
+        line-height: 80px;
+        width: auto;
+        margin: 0;
+        margin-right: 24px;
+    }
+
+.covid-body {
+    width: 100%;
+    height: calc(100% - 80px);
+    float: left;
+}
+
+    .covid-body .covid-total {
+        width: 100%;
+        height: 120px;
+        box-shadow: 1px 2px 3px 0px rgba(0, 0, 0, 0.26);
+        display: flex;
+        padding-right: 24px;
+        box-sizing: border-box;
+        background-image: linear-gradient(to right, #eee, #fff);
+    }
+
+.title-total {
+    display: block;
+    margin: 0;
+    line-height: 120px;
+    margin-left: 24px;
+    width: 124px;
+}
+
+.covid-total .big-item {
+    height: 100%;
+    width: 250px;
+    margin-left: 150px;
+    border-radius: 4px;
+    overflow: hidden;
+    box-shadow: 3px 0px 6px 0px rgba(0, 0, 0, 0.26);
+    background-image: linear-gradient(to right,#fff,#eee);
+}
+
+
+    .covid-total .big-item.confirmed {
+        border-left: 4px solid #F1C04E;
+    }
+
+    .covid-total .big-item.deaths {
+        border-left: 4px solid #EB5757;
+    }
+
+    .covid-total .big-item.recovered {
+        border-left: 4px solid #01B075;
+    }
+
+
+    .covid-total .big-item .small-item {
+        width: 100%;
+        display: block;
+        line-height: 39px;
+        float: left;
+        height: 40px;
+        border-bottom: 1px solid #bbb;
+        margin: 0;
+        padding: 0;
+        padding-left: 10px;
+        box-sizing: border-box;
+    }
+
+        .covid-total .big-item .small-item:first-child {
+            text-align: center;
+        } 
+        
+        .covid-total .big-item .small-item:last-child {
+            border:none;
+        }
+
+    /*việt nam*/
+.covid-body .covid-vn {
+    float: left;
+    width: 250px;
+    height: calc( 100% - 121px );
+    box-shadow: 2px 0px 3px 0px rgba(0, 0, 0, 0.26);
+    display: flex;
+    box-sizing: border-box;
+    flex-direction: column;
+    background-image: linear-gradient(#fff,#eee);
+}
+
+.title-vn {
+    display: block;
+    margin: 0;
+    line-height: 80px;
+    height: 80px;
+    text-align:center;
+    width: 100%;
+}
+
+
+.covid-vn .big-item {
+    height: 120px;
+    width: 100%;
+    border-radius: 4px;
+    overflow: hidden;
+    box-shadow: 0px 3px 6px 0px rgba(0, 0, 0, 0.26);
+    margin: 0;
+    margin-top: 70px;
+    background-image: linear-gradient(#eee,#fff);
+}
+
+    .covid-vn .big-item.confirmed {
+        border-top: 4px solid #F1C04E;
+        margin-top: 0px;
+    }
+
+    .covid-vn .big-item.deaths {
+        border-top: 4px solid #EB5757;
+    }
+
+    .covid-vn .big-item.recovered {
+        border-top: 4px solid #01B075;
+    }
+
+
+.covid-vn .big-item .small-item {
+    width: 100%;
+    display: block;
+    line-height: 39px;
+    float: left;
+    height: 40px;
+    border-bottom: 1px solid #bbb;
+    margin: 0;
+    padding: 0;
+    padding-left: 10px;
+    box-sizing: border-box;
+}
+
+
+    .covid-vn .big-item .small-item:first-child {
+        text-align: center;
+    }
+
+.covid-country {
+    float: left;
+    width: calc(100% - 250px);
+    height: calc(100% - 120px);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+    .covid-country .khai-bao {
+        width: calc(100% - 530px);
+        height: 100%;
+        background-image: linear-gradient(to bottom right, #ccc, #fff);
+        display: flex;
+        float:left;
+        justify-content: center;
+        position: relative;
+    }
+
+        .covid-country .khai-bao .layer{
+            position:absolute;
+            width: 100%;
+            height: 100%;
+            opacity: 0;
+            background-color: #000;
+            transition:0.2s;
+        }
+
+        .covid-country .khai-bao a {
+            text-decoration: none;
+            position: absolute;
+            left: 50%;
+            margin-left: -79px;
+            top: 50%;
+            margin-top: -20px;
+            transform: scale(0);
+            transition: 0.2s;
+            background-image: linear-gradient(to bottom right, aqua, yellow);
+            color: blue;
+        }
+
+            .covid-country .khai-bao a:hover {
+                background-image: linear-gradient(to bottom right, yellow, aqua);
+                transition: 0.2s;
+            }
+
+            .covid-country .khai-bao:hover .layer {
+                opacity: 0.4;
+                transition: 0.2s;
+            }
+
+            .covid-country .khai-bao:hover  a {
+                transform: scale(1);
+                transition: 0.2s;
+            }
+
+                .covid-country .khai-bao .qrcode {
+                    width: 400px;
+                    height: 100%;
+                    background-image: url('../../content/img/qrcode.png');
+                    background-repeat: no-repeat;
+                    background-size: contain;
+                    background-position: center center;
+                }
+
+        .covid-country .five-k {
+            width: 530px;
+            height: 100%;
+            background-image: url('../../content/img/covid.jpg');
+            background-repeat: no-repeat;
+            float:left;
+            position: relative;
+        }
+
+            .covid-country .five-k .layer {
+                position: absolute;
+                width: 100%;
+                height: 100%;
+                opacity: 0;
+                background-color: #000;
+                transition: 0.2s;
+            }
+
+            .covid-country .five-k a {
+                text-decoration: none;
+                position: absolute;
+                left: 50%;
+                margin-left: -79px;
+                top: 50%;
+                margin-top: -20px;
+                transform: scale(0);
+                transition: 0.2s;
+                background-image: linear-gradient(to bottom right, aqua, yellow);
+                color: blue;
+            }
+
+                .covid-country .five-k a:hover {
+                    background-image: linear-gradient(to bottom right, yellow,aqua);
+                    transition:0.2s;
+                }
+
+                .covid-country .five-k:hover .layer {
+                    opacity: 0.4;
+                    transition: 0.2s;
+                }
+
+                .covid-country .five-k:hover a {
+                    transform: scale(1);
+                    transition: 0.2s;
+                }
+
+
+                /*Tooltip*/
+
+.khai-bao-title-wrapper {
+    width: 150px;
+    height: 50px;
+    border-radius: 15px;
+    position: absolute;
+    top: 625px;
+    left: -166px;
+}
+
+    .khai-bao-title-wrapper .title {
+        width: 100%;
+        height: 100%;
+        background-color: yellow;
+        border-radius: 15px;
+        position:relative;
+    }
+
+        .khai-bao-title-wrapper .title div {
+            width: 25px;
+            height: 25px;
+            position: absolute;
+            top: 13px;
+            right: -10px;
+            transform: rotate(45deg);
+            background-color: yellow;
+        }
+
+        .khai-bao-title-wrapper .title p {
+            line-height: 50px;
+            padding: 0;
+            margin: 0;
+            text-align: center;
+        }
+
+
+
+.fivek-title-wrapper {
+    width: 200px;
+    height: 50px;
+    border-radius: 15px;
+    position: absolute;
+   top: -68px;
+    left: 300px;
+}
+
+    .fivek-title-wrapper .title {
+        width: 100%;
+        height: 100%;
+        background-color: aqua;
+        border-radius: 15px;
+        position: relative;
+    }
+
+        .fivek-title-wrapper .title div {
+            width: 25px;
+            height: 25px;
+            position: absolute;
+            bottom: -12px;
+            right: 86px;
+            transform: rotate(45deg);
+            background-color: aqua;
+        }
+
+        .fivek-title-wrapper .title p {
+            line-height: 50px;
+            padding: 0;
+            margin: 0;
+            text-align: center;
+        }

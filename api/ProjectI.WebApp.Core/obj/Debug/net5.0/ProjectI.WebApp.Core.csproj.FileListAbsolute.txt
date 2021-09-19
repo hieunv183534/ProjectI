@@ -1,0 +1,28 @@
+C:\Users\Admin\Desktop\New folder\ProjectI.WebApp.Api\ProjectI.WebApp.Core\bin\Debug\net5.0\ProjectI.WebApp.Core.deps.json
+C:\Users\Admin\Desktop\New folder\ProjectI.WebApp.Api\ProjectI.WebApp.Core\bin\Debug\net5.0\ProjectI.WebApp.Core.dll
+C:\Users\Admin\Desktop\New folder\ProjectI.WebApp.Api\ProjectI.WebApp.Core\bin\Debug\net5.0\ref\ProjectI.WebApp.Core.dll
+C:\Users\Admin\Desktop\New folder\ProjectI.WebApp.Api\ProjectI.WebApp.Core\bin\Debug\net5.0\ProjectI.WebApp.Core.pdb
+C:\Users\Admin\Desktop\New folder\ProjectI.WebApp.Api\ProjectI.WebApp.Core\obj\Debug\net5.0\ProjectI.WebApp.Core.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\New folder\ProjectI.WebApp.Api\ProjectI.WebApp.Core\obj\Debug\net5.0\ProjectI.WebApp.Core.Resources.ResourceVN.resources
+C:\Users\Admin\Desktop\New folder\ProjectI.WebApp.Api\ProjectI.WebApp.Core\obj\Debug\net5.0\ProjectI.WebApp.Core.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\New folder\ProjectI.WebApp.Api\ProjectI.WebApp.Core\obj\Debug\net5.0\ProjectI.WebApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\New folder\ProjectI.WebApp.Api\ProjectI.WebApp.Core\obj\Debug\net5.0\ProjectI.WebApp.Core.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\New folder\ProjectI.WebApp.Api\ProjectI.WebApp.Core\obj\Debug\net5.0\ProjectI.WebApp.Core.AssemblyInfo.cs
+C:\Users\Admin\Desktop\New folder\ProjectI.WebApp.Api\ProjectI.WebApp.Core\obj\Debug\net5.0\ProjectI.WebApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\New folder\ProjectI.WebApp.Api\ProjectI.WebApp.Core\obj\Debug\net5.0\ProjectI.WebApp.Core.dll
+C:\Users\Admin\Desktop\New folder\ProjectI.WebApp.Api\ProjectI.WebApp.Core\obj\Debug\net5.0\ref\ProjectI.WebApp.Core.dll
+C:\Users\Admin\Desktop\New folder\ProjectI.WebApp.Api\ProjectI.WebApp.Core\obj\Debug\net5.0\ProjectI.WebApp.Core.pdb
+C:\Users\Admin\Desktop\ProjectI\ProjectI.WebApp.Api\ProjectI.WebApp.Core\bin\Debug\net5.0\ProjectI.WebApp.Core.deps.json
+C:\Users\Admin\Desktop\ProjectI\ProjectI.WebApp.Api\ProjectI.WebApp.Core\bin\Debug\net5.0\ProjectI.WebApp.Core.dll
+C:\Users\Admin\Desktop\ProjectI\ProjectI.WebApp.Api\ProjectI.WebApp.Core\bin\Debug\net5.0\ref\ProjectI.WebApp.Core.dll
+C:\Users\Admin\Desktop\ProjectI\ProjectI.WebApp.Api\ProjectI.WebApp.Core\bin\Debug\net5.0\ProjectI.WebApp.Core.pdb
+C:\Users\Admin\Desktop\ProjectI\ProjectI.WebApp.Api\ProjectI.WebApp.Core\obj\Debug\net5.0\ProjectI.WebApp.Core.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ProjectI\ProjectI.WebApp.Api\ProjectI.WebApp.Core\obj\Debug\net5.0\ProjectI.WebApp.Core.Resources.ResourceVN.resources
+C:\Users\Admin\Desktop\ProjectI\ProjectI.WebApp.Api\ProjectI.WebApp.Core\obj\Debug\net5.0\ProjectI.WebApp.Core.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\ProjectI\ProjectI.WebApp.Api\ProjectI.WebApp.Core\obj\Debug\net5.0\ProjectI.WebApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\ProjectI\ProjectI.WebApp.Api\ProjectI.WebApp.Core\obj\Debug\net5.0\ProjectI.WebApp.Core.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ProjectI\ProjectI.WebApp.Api\ProjectI.WebApp.Core\obj\Debug\net5.0\ProjectI.WebApp.Core.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ProjectI\ProjectI.WebApp.Api\ProjectI.WebApp.Core\obj\Debug\net5.0\ProjectI.WebApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ProjectI\ProjectI.WebApp.Api\ProjectI.WebApp.Core\obj\Debug\net5.0\ProjectI.WebApp.Core.dll
+C:\Users\Admin\Desktop\ProjectI\ProjectI.WebApp.Api\ProjectI.WebApp.Core\obj\Debug\net5.0\ref\ProjectI.WebApp.Core.dll
+C:\Users\Admin\Desktop\ProjectI\ProjectI.WebApp.Api\ProjectI.WebApp.Core\obj\Debug\net5.0\ProjectI.WebApp.Core.pdb

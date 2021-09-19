@@ -1,0 +1,80 @@
+C:\Users\Admin\Desktop\New folder\ProjectI.WebApp.Api\ProjectI.WebApp.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Admin\Desktop\New folder\ProjectI.WebApp.Api\ProjectI.WebApp.Api\bin\Debug\net5.0\appsettings.json
+C:\Users\Admin\Desktop\New folder\ProjectI.WebApp.Api\ProjectI.WebApp.Api\bin\Debug\net5.0\ProjectI.WebApp.Api.exe
+C:\Users\Admin\Desktop\New folder\ProjectI.WebApp.Api\ProjectI.WebApp.Api\bin\Debug\net5.0\ProjectI.WebApp.Api.deps.json
+C:\Users\Admin\Desktop\New folder\ProjectI.WebApp.Api\ProjectI.WebApp.Api\bin\Debug\net5.0\ProjectI.WebApp.Api.runtimeconfig.json
+C:\Users\Admin\Desktop\New folder\ProjectI.WebApp.Api\ProjectI.WebApp.Api\bin\Debug\net5.0\ProjectI.WebApp.Api.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\New folder\ProjectI.WebApp.Api\ProjectI.WebApp.Api\bin\Debug\net5.0\ProjectI.WebApp.Api.dll
+C:\Users\Admin\Desktop\New folder\ProjectI.WebApp.Api\ProjectI.WebApp.Api\bin\Debug\net5.0\ref\ProjectI.WebApp.Api.dll
+C:\Users\Admin\Desktop\New folder\ProjectI.WebApp.Api\ProjectI.WebApp.Api\bin\Debug\net5.0\ProjectI.WebApp.Api.pdb
+C:\Users\Admin\Desktop\New folder\ProjectI.WebApp.Api\ProjectI.WebApp.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Admin\Desktop\New folder\ProjectI.WebApp.Api\ProjectI.WebApp.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Desktop\New folder\ProjectI.WebApp.Api\ProjectI.WebApp.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Desktop\New folder\ProjectI.WebApp.Api\ProjectI.WebApp.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Desktop\New folder\ProjectI.WebApp.Api\ProjectI.WebApp.Api\obj\Debug\net5.0\ProjectI.WebApp.Api.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\New folder\ProjectI.WebApp.Api\ProjectI.WebApp.Api\obj\Debug\net5.0\ProjectI.WebApp.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\New folder\ProjectI.WebApp.Api\ProjectI.WebApp.Api\obj\Debug\net5.0\ProjectI.WebApp.Api.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\New folder\ProjectI.WebApp.Api\ProjectI.WebApp.Api\obj\Debug\net5.0\ProjectI.WebApp.Api.AssemblyInfo.cs
+C:\Users\Admin\Desktop\New folder\ProjectI.WebApp.Api\ProjectI.WebApp.Api\obj\Debug\net5.0\ProjectI.WebApp.Api.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\New folder\ProjectI.WebApp.Api\ProjectI.WebApp.Api\obj\Debug\net5.0\ProjectI.WebApp.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Desktop\New folder\ProjectI.WebApp.Api\ProjectI.WebApp.Api\obj\Debug\net5.0\ProjectI.WebApp.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\New folder\ProjectI.WebApp.Api\ProjectI.WebApp.Api\obj\Debug\net5.0\staticwebassets\ProjectI.WebApp.Api.StaticWebAssets.Manifest.cache
+C:\Users\Admin\Desktop\New folder\ProjectI.WebApp.Api\ProjectI.WebApp.Api\obj\Debug\net5.0\staticwebassets\ProjectI.WebApp.Api.StaticWebAssets.xml
+C:\Users\Admin\Desktop\New folder\ProjectI.WebApp.Api\ProjectI.WebApp.Api\obj\Debug\net5.0\scopedcss\bundle\ProjectI.WebApp.Api.styles.css
+C:\Users\Admin\Desktop\New folder\ProjectI.WebApp.Api\ProjectI.WebApp.Api\obj\Debug\net5.0\ProjectI.WebApp.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Desktop\New folder\ProjectI.WebApp.Api\ProjectI.WebApp.Api\obj\Debug\net5.0\ProjectI.WebApp.Api.csproj.CopyComplete
+C:\Users\Admin\Desktop\New folder\ProjectI.WebApp.Api\ProjectI.WebApp.Api\obj\Debug\net5.0\ProjectI.WebApp.Api.dll
+C:\Users\Admin\Desktop\New folder\ProjectI.WebApp.Api\ProjectI.WebApp.Api\obj\Debug\net5.0\ref\ProjectI.WebApp.Api.dll
+C:\Users\Admin\Desktop\New folder\ProjectI.WebApp.Api\ProjectI.WebApp.Api\obj\Debug\net5.0\ProjectI.WebApp.Api.pdb
+C:\Users\Admin\Desktop\New folder\ProjectI.WebApp.Api\ProjectI.WebApp.Api\obj\Debug\net5.0\ProjectI.WebApp.Api.genruntimeconfig.cache
+C:\Users\Admin\Desktop\New folder\ProjectI.WebApp.Api\ProjectI.WebApp.Api\bin\Debug\net5.0\Dapper.dll
+C:\Users\Admin\Desktop\New folder\ProjectI.WebApp.Api\ProjectI.WebApp.Api\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\New folder\ProjectI.WebApp.Api\ProjectI.WebApp.Api\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Desktop\New folder\ProjectI.WebApp.Api\ProjectI.WebApp.Api\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Desktop\New folder\ProjectI.WebApp.Api\ProjectI.WebApp.Api\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Desktop\New folder\ProjectI.WebApp.Api\ProjectI.WebApp.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\New folder\ProjectI.WebApp.Api\ProjectI.WebApp.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\New folder\ProjectI.WebApp.Api\ProjectI.WebApp.Api\bin\Debug\net5.0\ProjectI.WebApp.Core.dll
+C:\Users\Admin\Desktop\New folder\ProjectI.WebApp.Api\ProjectI.WebApp.Api\bin\Debug\net5.0\ProjectI.WebApp.Infrastructure.dll
+C:\Users\Admin\Desktop\New folder\ProjectI.WebApp.Api\ProjectI.WebApp.Api\bin\Debug\net5.0\ProjectI.WebApp.Core.pdb
+C:\Users\Admin\Desktop\New folder\ProjectI.WebApp.Api\ProjectI.WebApp.Api\bin\Debug\net5.0\ProjectI.WebApp.Infrastructure.pdb
+C:\Users\Admin\Desktop\ProjectI\ProjectI.WebApp.Api\ProjectI.WebApp.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Admin\Desktop\ProjectI\ProjectI.WebApp.Api\ProjectI.WebApp.Api\bin\Debug\net5.0\appsettings.json
+C:\Users\Admin\Desktop\ProjectI\ProjectI.WebApp.Api\ProjectI.WebApp.Api\bin\Debug\net5.0\ProjectI.WebApp.Api.exe
+C:\Users\Admin\Desktop\ProjectI\ProjectI.WebApp.Api\ProjectI.WebApp.Api\bin\Debug\net5.0\ProjectI.WebApp.Api.deps.json
+C:\Users\Admin\Desktop\ProjectI\ProjectI.WebApp.Api\ProjectI.WebApp.Api\bin\Debug\net5.0\ProjectI.WebApp.Api.runtimeconfig.json
+C:\Users\Admin\Desktop\ProjectI\ProjectI.WebApp.Api\ProjectI.WebApp.Api\bin\Debug\net5.0\ProjectI.WebApp.Api.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\ProjectI\ProjectI.WebApp.Api\ProjectI.WebApp.Api\bin\Debug\net5.0\ProjectI.WebApp.Api.dll
+C:\Users\Admin\Desktop\ProjectI\ProjectI.WebApp.Api\ProjectI.WebApp.Api\bin\Debug\net5.0\ref\ProjectI.WebApp.Api.dll
+C:\Users\Admin\Desktop\ProjectI\ProjectI.WebApp.Api\ProjectI.WebApp.Api\bin\Debug\net5.0\ProjectI.WebApp.Api.pdb
+C:\Users\Admin\Desktop\ProjectI\ProjectI.WebApp.Api\ProjectI.WebApp.Api\bin\Debug\net5.0\Dapper.dll
+C:\Users\Admin\Desktop\ProjectI\ProjectI.WebApp.Api\ProjectI.WebApp.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Admin\Desktop\ProjectI\ProjectI.WebApp.Api\ProjectI.WebApp.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Desktop\ProjectI\ProjectI.WebApp.Api\ProjectI.WebApp.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Desktop\ProjectI\ProjectI.WebApp.Api\ProjectI.WebApp.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Desktop\ProjectI\ProjectI.WebApp.Api\ProjectI.WebApp.Api\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\ProjectI\ProjectI.WebApp.Api\ProjectI.WebApp.Api\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Desktop\ProjectI\ProjectI.WebApp.Api\ProjectI.WebApp.Api\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Desktop\ProjectI\ProjectI.WebApp.Api\ProjectI.WebApp.Api\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Desktop\ProjectI\ProjectI.WebApp.Api\ProjectI.WebApp.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\ProjectI\ProjectI.WebApp.Api\ProjectI.WebApp.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\ProjectI\ProjectI.WebApp.Api\ProjectI.WebApp.Api\bin\Debug\net5.0\ProjectI.WebApp.Core.dll
+C:\Users\Admin\Desktop\ProjectI\ProjectI.WebApp.Api\ProjectI.WebApp.Api\bin\Debug\net5.0\ProjectI.WebApp.Infrastructure.dll
+C:\Users\Admin\Desktop\ProjectI\ProjectI.WebApp.Api\ProjectI.WebApp.Api\bin\Debug\net5.0\ProjectI.WebApp.Core.pdb
+C:\Users\Admin\Desktop\ProjectI\ProjectI.WebApp.Api\ProjectI.WebApp.Api\bin\Debug\net5.0\ProjectI.WebApp.Infrastructure.pdb
+C:\Users\Admin\Desktop\ProjectI\ProjectI.WebApp.Api\ProjectI.WebApp.Api\obj\Debug\net5.0\ProjectI.WebApp.Api.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ProjectI\ProjectI.WebApp.Api\ProjectI.WebApp.Api\obj\Debug\net5.0\ProjectI.WebApp.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\ProjectI\ProjectI.WebApp.Api\ProjectI.WebApp.Api\obj\Debug\net5.0\ProjectI.WebApp.Api.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ProjectI\ProjectI.WebApp.Api\ProjectI.WebApp.Api\obj\Debug\net5.0\ProjectI.WebApp.Api.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ProjectI\ProjectI.WebApp.Api\ProjectI.WebApp.Api\obj\Debug\net5.0\ProjectI.WebApp.Api.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ProjectI\ProjectI.WebApp.Api\ProjectI.WebApp.Api\obj\Debug\net5.0\ProjectI.WebApp.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Desktop\ProjectI\ProjectI.WebApp.Api\ProjectI.WebApp.Api\obj\Debug\net5.0\ProjectI.WebApp.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\ProjectI\ProjectI.WebApp.Api\ProjectI.WebApp.Api\obj\Debug\net5.0\staticwebassets\ProjectI.WebApp.Api.StaticWebAssets.Manifest.cache
+C:\Users\Admin\Desktop\ProjectI\ProjectI.WebApp.Api\ProjectI.WebApp.Api\obj\Debug\net5.0\staticwebassets\ProjectI.WebApp.Api.StaticWebAssets.xml
+C:\Users\Admin\Desktop\ProjectI\ProjectI.WebApp.Api\ProjectI.WebApp.Api\obj\Debug\net5.0\scopedcss\bundle\ProjectI.WebApp.Api.styles.css
+C:\Users\Admin\Desktop\ProjectI\ProjectI.WebApp.Api\ProjectI.WebApp.Api\obj\Debug\net5.0\ProjectI.WebApp.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Desktop\ProjectI\ProjectI.WebApp.Api\ProjectI.WebApp.Api\obj\Debug\net5.0\ProjectI.WebApp.Api.csproj.CopyComplete
+C:\Users\Admin\Desktop\ProjectI\ProjectI.WebApp.Api\ProjectI.WebApp.Api\obj\Debug\net5.0\ProjectI.WebApp.Api.dll
+C:\Users\Admin\Desktop\ProjectI\ProjectI.WebApp.Api\ProjectI.WebApp.Api\obj\Debug\net5.0\ref\ProjectI.WebApp.Api.dll
+C:\Users\Admin\Desktop\ProjectI\ProjectI.WebApp.Api\ProjectI.WebApp.Api\obj\Debug\net5.0\ProjectI.WebApp.Api.pdb
+C:\Users\Admin\Desktop\ProjectI\ProjectI.WebApp.Api\ProjectI.WebApp.Api\obj\Debug\net5.0\ProjectI.WebApp.Api.genruntimeconfig.cache
